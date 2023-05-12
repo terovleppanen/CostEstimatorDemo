@@ -83,6 +83,7 @@ h1 {
 
 .toggle-wrapper {
   display: flex;
+  margin: 16px 0;
 }
 
 .toggle-wrapper img {
